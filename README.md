@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaycarlx
 - 👀 I’m interested in website creation
-- 🌱 I’m currently learning Backend programming
+- 🌱 I’m currently learning Fullstack programming
 - 💞️ I’m looking to collaborate on anything tech related
 - 📫 How to reach me +2348168863531
 
