@@ -7,7 +7,7 @@ Front-End Web Developer
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://molokwu-chibuzor.netlify.app)
 * ✉️  You can contact me at [molokwuchibuzorchristian@gmail.com](mailto:molokwuchibuzorchristian@gmail.com)
-* 🚀  I'm currently working on [Butler](http://butler.io)
+* 🚀  I'm currently working on [Butler](http://getbutler.africa)
 * 🧠  I'm learning ReactJs
 * 🤝  I'm open to collaborating on Interesting Projects.
 * ⚡  I love contributing to Open Source, helping people in their Developer career and just... building stuff
